@@ -1,0 +1,32 @@
+_repo: ParsifalStory-and-Analysis-of-Wagner-s-Great-Opera_20264
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haweis, H. R. (Hugh Reginald)
+    birthdate: 1839
+    deathdate: 1901
+    gutenberg_agent_id: '9198'
+    url: http://www.gutenberg.org/2009/agents/9198
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Reginald_Haweis
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2007-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Stories, plots, etc.'
+- !lcc 'ML'
+- !lcsh 'Wagner, Richard, 1813-1883. Parsifal'
+- !lcsh 'Perceval (Legendary character) -- Drama'
+title: 'Parsifal
+
+  Story and Analysis of Wagner''s Great Opera'
+url: http://www.gutenberg.org/ebooks/20264
